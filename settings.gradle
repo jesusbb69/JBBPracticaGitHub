@@ -9,3 +9,7 @@
 
 rootProject.name = 'JBBPracticaGitHub'
 include('app')
+
+
+/* prueba con un fichero editado
+*/
